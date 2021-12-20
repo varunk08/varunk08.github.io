@@ -1,5 +1,5 @@
 title: Varun K
 description: Welcome to my site, where I discuss books, graphics, programming and tech.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
