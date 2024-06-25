@@ -9,3 +9,4 @@ layout: default
 3. [anandtech.com](https://www.anandtech.com/)
 4. [realtimerendering.com](https://www.realtimerendering.com/)
 5. [The Ryg Blog](https://fgiesen.wordpress.com/)
+6. [aras-p.info/blog](https://aras-p.info/blog/)
