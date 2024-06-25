@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Some nice websites
 
 1. [fabiensanglard.net](https://fabiensanglard.net/)
